@@ -1,2 +1,1 @@
-# hiwetet.github.io
-My dev portfolio
+# f25-portfolio-template
